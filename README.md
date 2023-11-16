@@ -1,6 +1,6 @@
 # led_server
 
-Creates a little server to drive single LEDs in WS2812B LED Strips via html-POST
+Creates a little server on a raspberry pi to drive single LEDs in WS2812B LED Strips via html-POST
 
 to test it send follwing command
 
